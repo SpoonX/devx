@@ -1,0 +1,28 @@
+{
+  "name": "devx",
+  "version": "1.0.0",
+  "description": "A simple editor to test small scripts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SpoonX/devx.git"
+  },
+  "keywords": [
+    "dev",
+    "code",
+    "php",
+    "node",
+    "javascript",
+    "editor",
+    "sandbox"
+  ],
+  "author": "RWOverdijk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SpoonX/devx/issues"
+  },
+  "homepage": "https://github.com/SpoonX/devx#readme"
+}
